@@ -22,7 +22,7 @@ My name is **Dimitrios Anastasopoulos** and I am currently an **Undergraduate St
 
 ## GitHub Statistics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrios-anastasopoulos&theme=tokyonight&layout=compact)](https://github.com/dimitrios-anastasopoulos/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrios-anastasopoulos&theme=tokyonight)](https://github.com/dimitrios-anastasopoulos/github-readme-stats)
 
 ![Dimitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrios-anastasopoulos&theme=tokyonight&show_icons=true)
 
