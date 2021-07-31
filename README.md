@@ -28,5 +28,6 @@ My name is **Dimitrios Anastasopoulos** and I am currently an **Undergraduate St
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
+<!-- Slugs: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <!-- Shields: https://shields.io/ -->
 <!-- GitHub Statistics: https://github.com/anuraghazra/github-readme-stats -->
