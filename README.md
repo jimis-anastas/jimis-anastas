@@ -19,3 +19,14 @@ My name is **Dimitrios Anastasopoulos** and I am currently an **Undergraduate St
 ![PyCharm_Badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![AndroidStudio_Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![MicrosoftOffice_Badge](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+## GitHub Statistics
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrios-anastasopoulos&theme=tokyonight&layout=compact)](https://github.com/dimitrios-anastasopoulos/github-readme-stats)
+
+![Dimitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrios-anastasopoulos&theme=tokyonight&show_icons=true)
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- Shields: https://shields.io/ -->
+<!-- GitHub Statistics: https://github.com/anuraghazra/github-readme-stats -->
