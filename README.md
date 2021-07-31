@@ -22,9 +22,9 @@ My name is **Dimitrios Anastasopoulos** and I am currently an **Undergraduate St
 
 ## GitHub Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrios-anastasopoulos&theme=tokyonight" alt="Top Languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitrios-anastasopoulos&theme=tokyonight&show_icons=true" alt="GitHub Profile Statistics"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dimitrios-anastasopoulos&repo=Binary-Sentiment-Classification&theme=tokyonight" alt="Binary Sentiment Classification"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrios-anastasopoulos&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dimitrios-anastasopoulos&theme=tokyonight&show_icons=true" alt="GitHub Profile Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitrios-anastasopoulos&repo=Binary-Sentiment-Classification&theme=tokyonight" alt="Binary Sentiment Classification"/>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
