@@ -1,4 +1,4 @@
-# Hello, everyone! <img src="https://raw.githubusercontent.com/dimitrios-anastasopoulos/dimitrios-anastasopoulos/main/wave.gif" width="30px">
+# Hello, everyone! <img src="https://raw.githubusercontent.com/dimitrios-anastasopoulos/dimitrios-anastasopoulos/main/wave.gif" width="30px" height="30px">
 
 My name is **Dimitrios Anastasopoulos** and I am currently an **Undergraduate Student** at **Athens University of Economics and Business** studying **Informatics**. You can find me on **LinkedIn** [here](https://www.linkedin.com/in/dimitrios-anastasopoulos/).
 
