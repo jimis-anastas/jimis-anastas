@@ -13,11 +13,7 @@ My name is **Dimitrios Anastasopoulos** and I am currently an **Undergraduate St
 ![HTML5_Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3_Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript_Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![MicrosoftSQLServer_Badge](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![IntelliJIDEA_Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm_Badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![AndroidStudio_Badge](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![MicrosoftOffice_Badge](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ## GitHub Statistics
