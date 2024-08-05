@@ -18,7 +18,7 @@ My name is **Dimitrios Anastasopoulos** and I am currently an **Undergraduate St
 
 ![MicrosoftOffice_Badge](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-## GitHub Statistics
+## Projects Showcase
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitrios-anastasopoulos&repo=Binary-Sentiment-Classification&theme=tokyonight" alt="Binary Sentiment Classification"/>](https://github.com/dimitrios-anastasopoulos/Binary-Sentiment-Classification) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitrios-anastasopoulos&repo=Distributed-Video-Sharing-Application&theme=tokyonight" alt="Distributed Video Sharing Application"/>](https://github.com/dimitrios-anastasopoulos/Distributed-Video-Sharing-Application)
 
